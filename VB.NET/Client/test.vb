@@ -123,7 +123,9 @@ Namespace tcptest
             Dim ret As ReturnPacket = New ReturnPacket()
 
             If dp.SessionGuid = Guid.Empty Then
+                ' Authenticate username and password possibly with LDAP server
             Else
+                '// check sessionguid valid -> if not return failed
             End If
 
             ret.OK = True
