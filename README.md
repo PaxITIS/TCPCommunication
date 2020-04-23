@@ -1,7 +1,7 @@
 # TCPCommunication
 [![Build status](https://ci.appveyor.com/api/projects/status/78g2a73dk4a9n5ox?svg=true)](https://ci.appveyor.com/project/PaxITIS/tcpcommunication)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PaxITIS/TCPCommunication)
-![GitHub repo size](https://img.shields.io/github/repo-size/PaxITIS/TCPCommunication?color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/PaxITIS/TCPCommunication)
 ![GitHub](https://img.shields.io/github/license/PaxITIS/TCPCommunication)
 
 
