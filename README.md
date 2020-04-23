@@ -1,5 +1,10 @@
 # TCPCommunication
 [![Build status](https://ci.appveyor.com/api/projects/status/78g2a73dk4a9n5ox?svg=true)](https://ci.appveyor.com/project/PaxITIS/tcpcommunication)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/PaxITIS/TCPCommunication)
+![GitHub repo size](https://img.shields.io/github/repo-size/PaxITIS/TCPCommunication?color=yellow)
+![GitHub](https://img.shields.io/github/license/PaxITIS/TCPCommunication)
+
+
 
 This is a demo project, both C# and VB.NET, to implement one communication between front-end application and Service application created by [Mehdi Gholam](https://www.codeproject.com/Articles/156765/WCF-Killer) in C# and ported by Omar Pasini to VB:NET
 
